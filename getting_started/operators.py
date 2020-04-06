@@ -12,3 +12,7 @@ print(f"\n3 in [1, 2, 3]       => \t{3 in [1, 2, 3]}")
 print(f"\n3 not in [1, 2, 3]   => \t{3 not in [1, 2, 3]}")
 
 print(f"\n10 % 3               => \t{10%3}")
+
+print("\n***** Ternary Operators *****\n")
+
+print(f"'True' if True else 'False': {'True' if True else 'False'}")
