@@ -1,4 +1,5 @@
-print("\n\n***** Unit Testing *****\n")
+title = "Unit Testing"
+print(f"\n\n{title.center(50, '*')}\n")
 
 import unittest
 

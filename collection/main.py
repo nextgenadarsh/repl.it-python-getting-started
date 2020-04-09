@@ -1,4 +1,5 @@
-print("\n\n***** Collections *****\n")
+title = "Collections"
+print(f"\n\n{title.center(50, '*')}\n")
 
 import collection.list_intro
 

@@ -1,3 +1,7 @@
+title = "Execution Started"
+print(f"\n\n{title.center(50, '*')}\n")
+
+
 import this # Zen of Python
 
 import getting_started.main
@@ -13,3 +17,7 @@ import functions.main
 import classes.main
 
 import files.main
+
+if __name__ == '__main__':
+  title = "Execution Completed"
+  print(f"\n\n{title.center(50, '*')}\n")

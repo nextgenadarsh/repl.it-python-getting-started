@@ -1,4 +1,5 @@
-print("\n\n***** Files & Exceptions *****\n")
+title = "Files & Exceptions"
+print(f"\n\n{title.center(50, '*')}\n")
 
 import files.read_file
 

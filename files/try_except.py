@@ -1,4 +1,6 @@
-print("\n\n***** Exception Handling *****\n")
+title = "Exception Handling"
+print(f"\n\n{title.center(50, '*')}\n")
+
 
 import sys
 import traceback

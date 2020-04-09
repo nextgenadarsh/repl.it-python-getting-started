@@ -1,4 +1,5 @@
-print("\n\n***** Conditional & Control Statements *****\n")
+title = "Conditional & Control Statements"
+print(f"\n\n{title.center(50, '*')}\n")
 
 import conditions_and_loops.conditions
 

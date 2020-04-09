@@ -1,4 +1,5 @@
-print("\n\n***** Getting Started *****\n")
+title = "Getting Started"
+print(f"\n\n{title.center(50, '*')}\n")
 
 import getting_started.user_input
 

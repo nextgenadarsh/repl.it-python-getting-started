@@ -1,5 +1,5 @@
-message = "\n***** Variables and Data Types *****\n"
-print (message)
+title = "Variables and Data Types"
+print(f"\n\n{title.center(50, '*')}\n")
 
 
 print("\

@@ -1,4 +1,5 @@
-print("\n\n***** Functions *****\n")
+title = "Functions"
+print(f"\n\n{title.center(50, '*')}\n")
 
 print("\n\n***** Importing Specific Functions from Module *****\n")
 

@@ -1,3 +1,6 @@
+title = "Class Examples"
+print(f"\n\n{title.center(50, '*')}\n")
+
 from classes.all_classes import *
 
 animal = Animal('abstract animal')

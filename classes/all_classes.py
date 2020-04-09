@@ -1,4 +1,5 @@
-print("\n\n ***** All Classes *****\n")
+title = "All Classes"
+print(f"\n\n{title.center(50, '*')}\n")
 
 class Animal:
 
