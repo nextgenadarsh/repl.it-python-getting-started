@@ -1,4 +1,4 @@
 # Python Getting Started
 
 
-[Edit in REPL](https://repl.it/@nextgenadarsh/python-getting-started)
+[Edit in REPL](https://repl.it/@nextgenadarsh/nextgen-python-getting-started)
